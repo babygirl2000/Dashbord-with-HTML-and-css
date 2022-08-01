@@ -6,14 +6,14 @@
     --color-danger: #ff7782;
     --color-succes: #41f1b6;
     --color-warning: #ffbb55;
-    --color-white: #fff;
-    --color-info-dark: #7d8da1;
+    --color-white:#f7dce4 ;
+    --color-info-dark: #fff;
     --color-info-light: #dce1eb;
     --color-dark: #363949;
     --color-light: rgba(132,139,200,0.18);
     --color-primary-variant: #111e88;
     --color-dark-variant: #677483;
-    --color-background: #f6f6f9;
+    --color-background:#e797ad ;
 
 
     --card-border-radius:2rem;
@@ -437,7 +437,7 @@ main .recent-orders a{
     margin-bottom: 0.8rem;
 }
 .right .sales-analytics .item{
-    background: var(--color-background);
+    background: var(--color-white);
     display: flex;
     align-items: center;
     gap: 1rem;
